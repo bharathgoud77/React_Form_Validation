@@ -1,7 +1,7 @@
 import {useEffect} from 'react';
 import {useNavigate} from 'react-router-dom';
 import {useDispatch, useSelector} from 'react-redux';
-import './style.css';
+// import './style.css';
 import {logout} from '../actions/actions';
 
 const Profile = () => {
